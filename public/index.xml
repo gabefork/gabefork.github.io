@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabriel Ford</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Gabriel Ford</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Oct 2024 13:53:09 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Brief Summary of Vector Databases</title>
+      <link>http://localhost:1313/posts/vector-databases/</link>
+      <pubDate>Wed, 23 Oct 2024 13:53:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/vector-databases/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;five main obstacles to vector data management, namely the&#xA;ambiguity of semantic similarity, large size of vectors, high cost of similarity comparison, lack of structural properties that&#xA;can be used for indexing, and difficulty of efficiently answering “hybrid” queries that jointly search both attributes and vectors.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The whole world is all about LLMs and data is typically unstructured. This calls for new databases, and vector databases are perfect for the job.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;about&#34;&gt;&#xA;  About&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#about&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m Gabe, a current undergraduate student at UMass Amherst and a programmer who loves GPUs. I&amp;rsquo;m super interested in the intersection of hardware and software, and GPUs fascinate me the most out of all the hardware in the computer.&lt;/p&gt;&#xA;&lt;p&gt;Aside from graphics development, I am highly active in my schools Cybersecurity Club. I have helped organize Capture the Flag competitions, and playtested challenges aplenty in the Open Source Intelligence category.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;h1 id=&#34;projects&#34;&gt;&#xA;  Projects&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#projects&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://sites.google.com/umass.edu/ersp-cics/projects/2024-2025/efficient-vector-databases-for-large-scale-datasets&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scaling vector databases to multi-GPU systems&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A year long research project with the DREAM Lab at UMass Amherst through the ERSP program focusing on allowing vector databases to exceed a single machine&amp;rsquo;s memory capacity.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://github.com/gabefork/city-guesser&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;City Guesser&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A European city guessing game written in Python, designed to help you get better at the popular geography game GeoGuessr.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
