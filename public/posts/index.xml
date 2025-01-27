@@ -6,14 +6,6 @@
     <description>Recent content in Posts on Gabriel Ford</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 23 Oct 2024 13:53:09 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>A Brief Summary of Vector Databases</title>
-      <link>http://localhost:1313/posts/vector-databases/</link>
-      <pubDate>Wed, 23 Oct 2024 13:53:09 -0400</pubDate>
-      <guid>http://localhost:1313/posts/vector-databases/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;five main obstacles to vector data management, namely the&#xA;ambiguity of semantic similarity, large size of vectors, high cost of similarity comparison, lack of structural properties that&#xA;can be used for indexing, and difficulty of efficiently answering “hybrid” queries that jointly search both attributes and vectors.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The whole world is all about LLMs and data is typically unstructured. This calls for new databases, and vector databases are perfect for the job.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
