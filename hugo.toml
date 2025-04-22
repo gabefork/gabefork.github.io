@@ -4,7 +4,7 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
+pagination.pagerSize = 20
 
 [services]
 
@@ -13,7 +13,7 @@ style = "github-dark"
 
 [params]
   author = "Gabriel Ford"
-  info = "Student and Graphics Developer"
+  info = "Student and Graphics Programmer"
   description = "Gabriel Ford's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/avatar.jpg"

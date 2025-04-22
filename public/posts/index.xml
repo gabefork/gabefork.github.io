@@ -6,7 +6,21 @@
     <description>Recent content in Posts on Gabriel Ford</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 18:46:20 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UMassCTF 2025 OSINT Writeups</title>
+      <link>http://localhost:1313/posts/umassctf-2025/</link>
+      <pubDate>Mon, 21 Apr 2025 18:46:20 -0400</pubDate>
+      <guid>http://localhost:1313/posts/umassctf-2025/</guid>
+      <description>&lt;p&gt;Now that UMassCTF 2025 is over, I think it&amp;rsquo;s time to explain myself. It was my first time writing CTF challenges, and I think I did a solid job. I went in wanting to write challenges that were:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Interesting and made you think a bit&lt;/li&gt;&#xA;&lt;li&gt;Couldn&amp;rsquo;t be easily reversed image searched (since it&amp;rsquo;s more fun when you have to work for the answer)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I wasn&amp;rsquo;t able to write as many challenges as I wanted, mainly due to a lack of time in the weeks leading up to the CTF. The challenges I did write were the best of the ideas that I had. Without further ado, let&amp;rsquo;s get into it.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>A Brief Summary of Vector Databases</title>
+      <link>http://localhost:1313/posts/vector-databases/</link>
+      <pubDate>Wed, 23 Oct 2024 13:53:09 -0400</pubDate>
+      <guid>http://localhost:1313/posts/vector-databases/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&amp;ldquo;five main obstacles to vector data management, namely the&#xA;ambiguity of semantic similarity, large size of vectors, high cost of similarity comparison, lack of structural properties that&#xA;can be used for indexing, and difficulty of efficiently answering “hybrid” queries that jointly search both attributes and vectors.&amp;rdquo;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;The whole world is all about LLMs and data is typically unstructured. This calls for new databases, and vector databases are perfect for the job.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
